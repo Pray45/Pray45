@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="left">Hey There, I’m Pray Patel</h1>
 
-<!--
-**Pray45/Pray45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h4 align="left">I build systems the way Hermione studies magic: obsessively, and with zero tolerance for nonsense.</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">- Currently a second-year Computer Science student,
+<br>- Building backend APIs and services that are simple, reliable, and boring in a good way
+<br>- Making full-stack and mobile apps when there’s an actual problem to solve
+<br>- Interested in Low level Programming</p>
+
+###
+<h1></h1>
+
+###
+<h3>Better not be Muggle...</h3>

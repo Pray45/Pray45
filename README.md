@@ -9,7 +9,7 @@
 <p align="left">- Currently a third-year Computer Science student,
 <br>- Building backend APIs and services that are simple, reliable, and boring in a good way
 <br>- Making full-stack and mobile apps when there’s an actual problem to solve
-<br>- Interested in Low level Programming</p>
+<br>- Interested in Low level Programming
 <br>- Exploring DevOps</p>
 
 ###
